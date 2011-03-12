@@ -4,7 +4,7 @@
 
 include $(GOROOT)/src/Make.inc
 
-TARG=mytools
+TARG=github.com/kevinwatt/mytools
 GOFILES=\
 	mytools.go\
 
